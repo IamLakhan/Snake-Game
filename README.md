@@ -12,4 +12,5 @@ Requirements:
   curses and random module
   
 Usage:
-  python3 snake.py
+  python snake.py
+  note: 'python' not 'python3'
