@@ -13,4 +13,6 @@ Requirements:
   
 Usage:
   python snake.py
+  
+  
   note: 'python' not 'python3'
